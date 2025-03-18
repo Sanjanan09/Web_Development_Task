@@ -1,1 +1,2 @@
-# Web_Development_Task
+The Interactive Login Form is a secure authentication system built with HTML, CSS, JavaScript, PHP, and MySQL, allowing users to register, log in, and manage accounts with password hashing and input validation. The Temperature Converter is a simple web app that enables real-time temperature conversion between Celsius, Fahrenheit, and Kelvin, developed using HTML, CSS, and JavaScript for easy use across devices.
+
